@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "teleconseiller": "Alice",
+      "client": "Bob",
+      "date_conversation": "2024-01-10",
+      "messages": [
+        {
+          "contenu": "Bonjour! Comment ça va?",
+          "expediteur": "Teleconseiller",
+          "heure_message": "2024-01-10T08:00:00"
+        },
+        {
+          "contenu": "Bonjour! Très bien, merci.",
+          "expediteur": "Client",
+          "heure_message": "2024-01-10T08:05:00"
+        },
+        {
+          "contenu": "Comment puis-je vous aider aujourd'hui?",
+          "expediteur": "Teleconseiller",
+          "heure_message": "2024-01-10T08:10:00"
+        },
+        {
+          "contenu": "J'aimerais en savoir plus sur vos produits.",
+          "expediteur": "Client",
+          "heure_message": "2024-01-10T08:15:00"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "teleconseiller": "Eve",
+      "client": "Charlie",
+      "date_conversation": "2024-01-12",
+      "messages": [
+        {
+          "contenu": "Bonjour! Comment puis-je vous assister?",
+          "expediteur": "Teleconseiller",
+          "heure_message": "2024-01-12T09:30:00"
+        },
+        {
+          "contenu": "J'ai un problème avec ma commande.",
+          "expediteur": "Client",
+          "heure_message": "2024-01-12T09:35:00"
+        },
+        {
+          "contenu": "Je vais examiner cela pour vous. Pouvez-vous fournir votre numéro de commande?",
+          "expediteur": "Teleconseiller",
+          "heure_message": "2024-01-12T09:40:00"
+        },
+        {
+          "contenu": "Bien sûr, voici le numéro: ABC123.",
+          "expediteur": "Client",
+          "heure_message": "2024-01-12T09:45:00"
+        }
+      ]
+    }
+  ]
+  

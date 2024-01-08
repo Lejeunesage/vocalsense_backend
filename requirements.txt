@@ -1,0 +1,8 @@
+django==4.1
+djangorestframework
+django-cors-headers
+pygments
+djangorestframework-simplejwt
+mysqlclient
+requests
+django-rest-auth
