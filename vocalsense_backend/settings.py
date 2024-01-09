@@ -25,8 +25,13 @@ SECRET_KEY = 'django-insecure-$vt6!ms%bss=-x!k&rqv5a=s!_+_$zhqc-of7j%40)_qp3ft1i
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost']
 
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:8080",
+]
+
+# CORS_ALLOW_ALL_ORIGINS = True
 
 # Application definition
 
@@ -39,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'vocalsense_api',
+    'corsheaders'
 ]
 
 MIDDLEWARE = [
@@ -49,6 +55,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
 ]
 
 ROOT_URLCONF = 'vocalsense_backend.urls'
@@ -86,9 +93,6 @@ DATABASES = {
     }
 }
 
-CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8080",
-]
 
 
 # Password validation

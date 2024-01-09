@@ -6,3 +6,4 @@ djangorestframework-simplejwt
 mysqlclient
 requests
 django-rest-auth
+django-cors-headers
