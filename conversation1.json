@@ -9,137 +9,137 @@
         {
             "expediteur": "Teleconseiller",
             "contenu": "Certainement! Quels types de produits vous intéressent en particulier?",
-            "heure_message": "2024-01-10T08:20:00"
+            "heure_message": "08:20:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Je m'intéresse aux produits d'assurance habitation.",
-            "heure_message": "2024-01-10T08:25:00"
+            "heure_message": "08:25:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Nous proposons différentes formules d'assurance habitation adaptées aux besoins de chacun. Pouvez-vous me décrire votre situation?",
-            "heure_message": "2024-01-10T08:30:00"
+            "heure_message": "08:30:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Oui, j'ai acheté récemment une maison et je voudrais l'assurer contre les risques classiques comme l'incendie, le vol, les dégâts des eaux...",
-            "heure_message": "2024-01-10T08:35:00"
+            "heure_message": "08:35:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Parfait, pour votre maison nous pouvons vous proposer notre formule Confort qui couvre tous ces risques de base. Souhaitez-vous également une garantie pour vos biens mobiliers ?",
-            "heure_message": "2024-01-10T08:40:00"
+            "heure_message": "08:40:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Oui, j'aimerais assurer également le contenu de la maison como mes meubles, appareils électroniques, etc.",
-            "heure_message": "2024-01-10T08:45:00"
+            "heure_message": "08:45:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Pas de souci, la formule Confort comprend une garantie pour le mobilier à hauteur de 10% du capital assuré pour la maison. Cela vous semble-t-il suffisant ?",
-            "heure_message": "2024-01-10T08:50:00"
+            "heure_message": "08:50:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Hmm 10% me paraît peu, j'ai quand même pas mal d'appareils électroniques et de meubles de valeur...",
-            "heure_message": "2024-01-10T08:55:00"
+            "heure_message": "08:55:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Nous pouvons augmenter ce plafond si vous le souhaitez, jusqu'à 30 ou 50% du capital du bâtiment. À combien estimez-vous la valeur de votre mobilier ?",
-            "heure_message": "2024-01-10T09:00:00"
+            "heure_message": "09:00:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Je dirais autour de 15 000€ pour l'ensemble.",
-            "heure_message": "2024-01-10T09:05:00"
+            "heure_message": "09:05:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "D'accord, dans ce cas je vous propose de fixer le capital mobilier assuré à 20% de la valeur de la maison, soit 20 000€. Cela vous convient ?",
-            "heure_message": "2024-01-10T09:10:00"
+            "heure_message": "09:10:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Oui c'est très bien ! Et au niveau des franchises en cas de sinistre, comment ça se passe ?",
-            "heure_message": "2024-01-10T09:15:00"
+            "heure_message": "09:15:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Avec notre formule Confort, la franchise est de 230€ par sinistre, sauf en cas de catastrophes naturelles où elle est fixée par la réglementation à 380€.",
-            "heure_message": "2024-01-10T09:20:00"
+            "heure_message": "09:20:00"
         },
         {
             "expediteur": "Client",
             "contenu": "D'accord, et est-ce qu'il y a des plafonds de remboursement selon le type de sinistre ?",
-            "heure_message": "2024-01-10T09:25:00"
+            "heure_message": "09:25:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Oui, il existe des plafonds spécifiques pour certains événements. Par exemple le vol des objets de valeur est couvert jusqu'à 50% du capital mobilier assuré. Les catastrophes naturelles ont aussi un plafond légal...",
-            "heure_message": "2024-01-10T09:30:00"
+            "heure_message": "09:30:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Je vois, et quel serait le coût d'une telle assurance avec vos recommandations ?",
-            "heure_message": "2024-01-10T09:35:00"
+            "heure_message": "09:35:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Pour un capital bâtiment de 100 000€ et 20% de mobilier assuré, la prime annuelle serait de 420€, soit 35€ par mois. ",
-            "heure_message": "2024-01-10T09:40:00"
+            "heure_message": "09:40:00"
         },
         {
             "expediteur": "Client",
             "contenu": "D'accord c'est dans mes moyens. Et on peut payer de manière mensuelle j'imagine ?",
-            "heure_message": "2024-01-10T09:45:00"
+            "heure_message": "09:45:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Tout à fait, le paiement mensuel est possible et c'est même comme ça que sont établies les cotisations pour ce contrat.",
-            "heure_message": "2024-01-10T09:50:00"
+            "heure_message": "09:50:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Parfait ! J'ai juste une autre question : en cas de prêt immobilier est-ce que la banque demande une assurance spécifique ?",
-            "heure_message": "2024-01-10T09:55:00"
+            "heure_message": "09:55:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "En effet, les banques imposent souvent leur propre contrat d'assurance emprunteur. Mais rien ne vous empêche de prendre cette assurance chez nous en complément de notre contrat habitation.",
-            "heure_message": "2024-01-10T10:00:00"
+            "heure_message": "10:00:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Bon à savoir ! Et au niveau des délais, si je souscris aujourd'hui cette assurance entre en vigueur immédiatement ? ",
-            "heure_message": "2024-01-10T10:05:00"
+            "heure_message": "10:05:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Oui, le contrat prend effet dès aujourd'hui si vous le souhaitez. Nous couvrons vos biens dès la prise d’effet de votre police d’assurance.",
-            "heure_message": "2024-01-10T10:10:00"
+            "heure_message": "10:10:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Génial ! Je pense que j'ai toutes les infos dont j'avais besoin. Je vais y réfléchir un peu et je vous tiens au courant rapidement.",
-            "heure_message": "2024-01-10T10:15:00"
+            "heure_message": "10:15:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Très bien, prenez le temps nécessaire pour prendre votre décision. N'hésitez pas à me recontacter pour toute information complémentaire.",
-            "heure_message": "2024-01-10T10:20:00"
+            "heure_message": "10:20:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Merci beaucoup pour toutes ces explications claires, au revoir !",
-            "heure_message": "2024-01-10T10:25:00"
+            "heure_message": "10:25:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Je vous en prie, c'était un plaisir de vous renseigner. Au revoir et à bientôt j'espère !",
-            "heure_message": "2024-01-10T10:30:00"
+            "heure_message": "10:30:00"
         }
     ]
 }

@@ -9,102 +9,102 @@
         {
             "expediteur": "Client",
             "contenu": "Bonjour, je suis intéressé par votre offre box Internet et j'aimerais avoir plus de détails.",
-            "heure_message": "2024-01-11T09:00:00"
+            "heure_message": "09:00:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Bonjour ! Nous proposons une box tout-en-un avec Internet très haut débit par fibre optique, téléphonie fixe et mobile et télévision.",
-            "heure_message": "2024-01-11T09:05:00"
+            "heure_message": "09:05:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Ça m'intéresse, quel est le débit proposé et combien de chaînes sont disponibles ? Y a-t-il des frais de mise en service ?",
-            "heure_message": "2024-01-11T09:10:00"
+            "heure_message": "09:10:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": " Excellente question ! Notre fibre propose un débit allant jusqu'à 1Gbps en download et 500Mbps en upload. Pour la TV, plus de 180 chaînes sont incluses. Et non, aucuns frais de mise en service, l'installation est offerte.",
-            "heure_message": "2024-01-11T09:15:00"
+            "heure_message": "09:15:00"
         },
         {
             "expediteur": "Client",
             "contenu": "D'accord, c'est très intéressant. Et concernant la téléphonie fixe et mobile, quelles sont les conditions ?",
-            "heure_message": "2024-01-11T09:20:00"
+            "heure_message": "09:20:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "La téléphonie fixe vers les fixes en France est illimitée. Pour la téléphonie mobile, vous avez les appels/SMS/MMS illimités en France métropolitaine et 40Go d'Internet mobile.",
-            "heure_message": "2024-01-11T09:25:00"
+            "heure_message": "09:25:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Très bien et l'étranger est inclus ? Quelle est la couverture réseau ?",
-            "heure_message": "2024-01-11T09:30:00"
+            "heure_message": "09:30:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Depuis l'Europe et les DOM, tout est illimité sauf internet mobile (20Go inclus). La couverture mobile est de 99% de la population en 4G.",
-            "heure_message": "2024-01-11T09:35:00"
+            "heure_message": "09:35:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Impeccable ! Et au niveau de l'engagement, suis-je obligé de rester 12 mois ? Quid de la portabilité ?",
-            "heure_message": "2024-01-11T09:40:00"
+            "heure_message": "09:40:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Non aucun engagement, vous êtes libre de partir quand vous voulez ! La portabilité est gratuite, elle se fait en 5 jours ouvrés.",
-            "heure_message": "2024-01-11T09:45:00"
+            "heure_message": "09:45:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Parfait, c'est vraiment une offre complète. Quel serait le coût mensuel pour l'ensemble box + mobile ? Y a-t-il des frais cachés ?",
-            "heure_message": "2024-01-11T09:50:00"
+            "heure_message": "09:50:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Le tarif est de 34,99€/mois tout inclus ! Aucuns frais cachés ni supplément, le prix est garanti à vie.",
-            "heure_message": "2024-01-11T09:55:00"
+            "heure_message": "09:55:00"
         },
         {
             "expediteur": "Client",
             "contenu": "D'accord c'est honnête. Quid en cas de panne ou de dégradation du matériel ?",
-            "heure_message": "2024-01-11T10:00:00"
+            "heure_message": "10:00:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Pas de souci, la box et le matériel mobile sont garantis 2 ans. En cas de souci, un échange sous 24h ou un technicien dans les 72h maximum.",
-            "heure_message": "2024-01-11T10:05:00"
+            "heure_message": "10:05:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Très rassurant tout ça. Dernière question : en termes de débit internet, est-il garanti ou dépend-il de mon installation ?",
-            "heure_message": "2024-01-11T10:10:00"
+            "heure_message": "10:10:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Excellente question ! Nous garantissons un débit minimum de 300 Mbps en download et 200 Mbps en upload, sous réserve d'éligibilité technique.",
-            "heure_message": "2024-01-11T10:15:00"
+            "heure_message": "10:15:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Parfait merci ! Je vais vérifier mon éligibilité mais je pense souscrire votre offre qui semble vraiment au top.",
-            "heure_message": "2024-01-11T10:20:00"
+            "heure_message": "10:20:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Très bien, n'hésitez pas à me recontacter pour finaliser votre souscription ou si vous avez la moindre question !",
-            "heure_message": "2024-01-11T10:25:00"
+            "heure_message": "10:25:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Merci pour toutes ces informations et votre disponibilité. Au plaisir!",
-            "heure_message": "2024-01-11T10:30:00"
+            "heure_message": "10:30:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Je vous en prie, c'était un plaisir de vous conseiller ! Au revoir.",
-            "heure_message": "2024-01-11T10:35:00"
+            "heure_message": "10:35:00"
         }
     ]
 }

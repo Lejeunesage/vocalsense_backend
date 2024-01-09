@@ -4,7 +4,7 @@ from rest_framework.routers import DefaultRouter
 from .views.campaign_views import CampagnViewSet
 from .views.activity_views import ActivityViewSet
 from .views.keyword_views import KeywordViewSet
-from .views.conversation_views import ConversationList, ConversationDetail
+from .views.conversation_views import ConversationViewSet
 from .views.message_views import MessageList, MessageDetail
 from .views.statistic_views import StatisticList, StatisticDetail
 
@@ -32,12 +32,17 @@ urlpatterns = [
     path('update-keyword', KeywordViewSet.update_keyword, name='update-keyword'),
     path('<int:keyword_id>/get-keyword', KeywordViewSet.get_keyword, name='get-keyword-detail'),
     path('<int:keyword_id>/delete-keyword', KeywordViewSet.delete_keyword, name='keyword-delete'),
+
+    # Les URLs pour les opérations CRUD Conversation
+    path('conversations-list', ConversationViewSet.list, name='conversations-list'),
+    path('store-conversation', ConversationViewSet.store_conversation, name='store-conversation'),
+    path('update-conversation', ConversationViewSet.update_conversation, name='update-conversation'),
+    path('<int:conversation_id>/get-conversation', ConversationViewSet.get_conversation, name='get-conversation-detail'),
+    path('<int:conversation_id>/delete-conversation', ConversationViewSet.delete_conversation, name='conversation-delete'),
     
    
     
 
-    path('conversations/', ConversationList.as_view(), name='conversation-list'),
-    path('conversations/<int:pk>/', ConversationDetail.as_view(), name='conversation-detail'),
 
     path('messages/', MessageList.as_view(), name='message-list'),
     path('messages/<int:pk>/', MessageDetail.as_view(), name='message-detail'),

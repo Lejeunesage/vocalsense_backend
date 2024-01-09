@@ -52,7 +52,7 @@ class Message(models.Model):
     contenu = models.TextField()
     expediteur = models.CharField(max_length=255)
     conversation = models.ForeignKey('Conversation', on_delete=models.CASCADE)
-    heure_conversation = models.DateTimeField()
+    heure_conversation = models.CharField(max_length=20)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 

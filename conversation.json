@@ -9,52 +9,52 @@
         {
             "expediteur": "Client",
             "contenu": "Allô allô ! J'ai un souci avec ma connexion fibre, êtes-vous là ?? C'est très urgent !",
-            "heure_message": "2024-01-12T08:00:00"
+            "heure_message": "08:00:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Bonjour Mme Durand ! Oui je suis là, ne vous inquiétez pas. Dites-moi ce qui se passe avec votre connexion ?",
-            "heure_message": "2024-01-12T08:05:00"
+            "heure_message": "08:05:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Ouf vous êtes là ! Eh bien figurez-vous que plus rien ne fonctionne depuis ce matin : ni internet, ni la télévision ! Au secours, que dois-je faire ??",
-            "heure_message": "2024-01-12T08:10:00"
+            "heure_message": "08:10:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Calmez-vous Madame, respirez ! On va trouver une solution, pas de panique. Avez-vous vérifié les branchements et le courant de votre box ? Un voyant est-il allumé ?",
-            "heure_message": "2024-01-12T08:15:00"
+            "heure_message": "08:15:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Oui oui j'ai tout vérifié, la box est bien allumée mais clignote en orange. J'y comprends rien, snif ! Ça ne m'est jamais arrivé...",
-            "heure_message": "2024-01-12T08:20:00"
+            "heure_message": "08:20:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Ne vous en faites pas, ce n'est peut-être qu'une panne temporaire. Nous allons lancer un diagnostic complet de votre ligne fibre pour voir d'où ça vient.",
-            "heure_message": "2024-01-12T08:25:00"
+            "heure_message": "08:25:00"
         },
         {
             "expediteur": "Client",
             "contenu": "D'accord, j'espère que vous allez trouver ce qui ne va pas ! J'ai vraiment besoin d'internet, je m'ennuie toute seule sinon, hou hou !",
-            "heure_message": "2024-01-12T08:30:00"
+            "heure_message": "08:30:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Je comprends bien Mme Durand ! Nous faisons le nécessaire pour que votre connexion soit rétablie au plus vite. Pour patienter, écoutez de la musique sur votre téléphone, lisez ou faites des mots croisés ! ;)",
-            "heure_message": "2024-01-12T08:35:00"
+            "heure_message": "08:35:00"
         },
         {
             "expediteur": "Client",
             "contenu": "Oui c'est une bonne idée ça ! Vous êtes bien gentil de me tenir compagnie. J'attends vos nouvelles alors ! Bisous 😘",
-            "heure_message": "2024-01-12T08:40:00"
+            "heure_message": "08:40:00"
         },
         {
             "expediteur": "Teleconseiller",
             "contenu": "Je vous en prie Mme Durand ! Je reviens vers vous dès que j'ai du nouveau. A bientôt ! 😊",
-            "heure_message": "2024-01-12T08:45:00"
+            "heure_message": "08:45:00"
         }
     ]
 }
