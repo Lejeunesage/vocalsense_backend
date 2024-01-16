@@ -154,9 +154,14 @@ class ActivityViewSet(viewsets.ModelViewSet):
 
                 # Supprimer l\'activité
                 activity.delete()
+                
+                # Après avoir supprimé l\'activité, mettre à jour la variable activity_list
+                queryset = Activity.objects.all()
+                activity_list = ActivitySerializer(queryset, many=True).data
 
-                return JsonResponse({'successMessage': 'activite supprimée avec succès'}, status=status.HTTP_200_OK, content_type='application/json')
-
+                return JsonResponse({'successMessage': 'activite supprimée avec succès',
+                                     'activity_list': activity_list
+                                     }, status=status.HTTP_200_OK, content_type='application/json')
             except Exception as e:
                 return JsonResponse({'errorMessage': 'Erreur lors de la suppression de l\'activité : ' + str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR, content_type='application/json')
         else:

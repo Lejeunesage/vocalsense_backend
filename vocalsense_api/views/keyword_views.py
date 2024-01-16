@@ -156,8 +156,15 @@ class KeywordViewSet(viewsets.ModelViewSet):
 
                 # Supprimer le mot clé
                 keyword.delete()
+                
+                 # Après avoir enregistré le mot clé, mettre à jour la variable keyword_list
+                queryset = Keyword.objects.all()
+                keyword_list = KeywordSerializer(queryset, many=True).data
 
-                return JsonResponse({'successMessage': 'activite supprimée avec succès'}, status=status.HTTP_200_OK, content_type='application/json')
+                return JsonResponse({'successMessage': 'activite supprimée avec succès',
+                                     
+                                     'keyword_list': keyword_list
+                                     }, status=status.HTTP_200_OK, content_type='application/json')
 
             except Exception as e:
                 return JsonResponse({'errorMessage': 'Erreur lors de la suppression de le mot clé : ' + str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR, content_type='application/json')

@@ -153,8 +153,15 @@ class CampagnViewSet(viewsets.ModelViewSet):
 
                 # Supprimer la campagne
                 campaign.delete()
+                
+                # Après avoir supprimé la campagne, mettre à jour la variable campaign_list
+                queryset = Campaign.objects.all()
+                campaign_list = CampaignSerializer(queryset, many=True).data
 
-                return JsonResponse({'successMessage': 'Campagne supprimée avec succès'}, status=status.HTTP_200_OK, content_type='application/json')
+                return JsonResponse({'successMessage': 'Campagne supprimée avec succès',
+                                     
+                                     'campaign_list': campaign_list
+                                     }, status=status.HTTP_200_OK, content_type='application/json')
 
             except Exception as e:
                 return JsonResponse({'errorMessage': 'Erreur lors de la suppression de la campagne : ' + str(e)}, status=status.HTTP_500_INTERNAL_SERVER_ERROR, content_type='application/json')
