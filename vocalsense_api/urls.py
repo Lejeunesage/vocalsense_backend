@@ -40,12 +40,11 @@ urlpatterns = [
     path('<int:conversation_id>/get-conversation', ConversationViewSet.get_conversation, name='get-conversation-detail'),
     path('<int:conversation_id>/delete-conversation', ConversationViewSet.delete_conversation, name='conversation-delete'),
     
-   
-    
 
 
     path('messages/', MessageList.as_view(), name='message-list'),
     path('messages/<int:pk>/', MessageDetail.as_view(), name='message-detail'),
+
 
     path('statistics/', StatisticList.as_view(), name='statistic-list'),
     path('statistics/<int:pk>/', StatisticDetail.as_view(), name='statistic-detail'),
